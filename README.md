@@ -38,6 +38,8 @@ Quer ajudar a deixar a aplicação ainda melhor? Mande um pull request!
 **#Flamengo #Futebol #Programação #JavaScript**
 
 **GitHub: devpedrin**
+**Link do meu Projeto: https://craques-do-mengao.vercel.app/**
 
 **Observação:** 
 Gabigol e Neymar são FLAMENGUISTAS e vão jogar juntos no MAIOR TIME DO MUNDO!!!! 
+

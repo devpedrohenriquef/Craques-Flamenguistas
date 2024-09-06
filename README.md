@@ -1,4 +1,4 @@
-## **Craques Brasileiros: A sua enciclopédia de lendas do futebol! ⚽️**
+## **Craques Brasileiros: A sua enciclopédia de lendas do futebol! ⚽️ - Imersão Dev com Google Gemini.**
 
 **O que faz essa aplicação?**
 
@@ -37,8 +37,7 @@ Quer ajudar a deixar a aplicação ainda melhor? Mande um pull request!
 
 **#Flamengo #Futebol #Programação #JavaScript**
 
-**Pedro Henrique**
-**devpedrin**
+**GitHub: devpedrin**
 
 **Observação:** 
 Gabigol e Neymar são FLAMENGUISTAS e vão jogar juntos no MAIOR TIME DO MUNDO!!!! 

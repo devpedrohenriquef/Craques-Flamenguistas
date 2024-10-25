@@ -6,7 +6,7 @@ Imagina você, torcedor fanático, querendo saber tudo sobre aquele seu ídolo d
 
 **Como usar?**
 
-1. **Digite o nome:** No campo de pesquisa, escreva o nome do jogador que você quer saber mais. 
+1. **Digite o nome:** No campo de pesquisa, escreva o nome dos jogadores (Neymar, Vinícius Junior ou Gabigol) ou alguns adjetivos que compõem a eles, como: (predestinado, atacante, estiloso, drible, decisivo ou genio) caso nenhum desses estejam inseridos no banco de dados, irá retornar uma resposta, "Nenhum atleta foi encontrado" que você quer saber mais. 
 2. **Clique em "Pesquisar":** E pronto! A aplicação vai procurar em nossa base de dados e te mostrar tudo sobre ele. 
 3. **Explore:** Clique nos links para saber ainda mais sobre a carreira do seu ídolo.
 
